@@ -5,6 +5,7 @@ A passionate Software Engineer 🚀 Solving problems, building and testing thing
 
 ##
 CRAZY FULL STACK QA WHO WANTS TO EXPLORE EVERY TECH STACK
+##
 ⚡ Passionate about designing and implementing Reusable, Maintainable, Scalable and Well-Designed Test Automation Frameworks
 ⚡ Applications/ Utilities across a variety of platforms and systems: 
     On-line, Real time applications, Web and Mobile user interface & Web services.
