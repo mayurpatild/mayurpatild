@@ -1,4 +1,4 @@
-## Hello, nerds 👋
+## Hey, 👋
 
 I'm Mayur ! 
 A passionate Software Engineer 🚀 Solving problems, building and testing things with code and thoughts.
