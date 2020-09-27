@@ -43,7 +43,7 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jmeter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/UiPath.png"></code>
-
+<br/>
 <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true" alt="mayurpatild" />
