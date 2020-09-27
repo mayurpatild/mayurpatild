@@ -27,8 +27,6 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/db.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/linux.png"></code>
-
-<br />
 <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true" alt="mayurpatild" />
