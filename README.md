@@ -17,31 +17,36 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 <br/>
 
 #### Languages and Tools:
+<br/>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jenkins.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/ansible.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/linux.png"></code>
+<br/>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/java.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cpp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/csharp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/ansible.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/appium.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/java.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cpp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/csharp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cucumber.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/db.png"></code>
+<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/gradle.webp"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jenkins.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jmeter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jsFramework.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/maven.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/node.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cucumber.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testing.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testng.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/UiPath.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/scraping.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/db.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/appium.jpg"></code>
+<br/>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jmeter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/UiPath.png"></code>
+
 <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true" alt="mayurpatild" />
