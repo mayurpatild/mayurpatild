@@ -1,6 +1,6 @@
 ## Hey, 👋
 
-### I'm Mayur - aka [MP][website] 👋
+### I'm [Mayur][website] 
 A passionate Software Engineer 🚀 Solving problems, building and testing things with code and thoughts.
 
 ##
@@ -20,13 +20,12 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jenkins.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/ansible.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/ansible.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/linux.png"></code>
 <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/java.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cpp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/csharp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
