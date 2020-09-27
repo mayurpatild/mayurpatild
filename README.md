@@ -6,13 +6,13 @@ A passionate Software Engineer 🚀 Solving problems, building and testing thing
 ##
 I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 ##
-⚡ Passionate about designing and implementing Reusable, Maintainable, Scalable and Well-Designed Test Automation Frameworks
-⚡ Developing Applications/ Utilities across a variety of platforms and systems: 
-    On-line, Real time applications, Web and Mobile user interface & Web services.
-⚡ Fun fact: In my free time, I read about Automobiles
-🌱 I’m currently learning RxJs and Machine Learching.
-🥅 2020 Goals: Contribute more to Open Source projects and survive it.
-📫 How to reach me: Say Hi! @ `mayurpatild@gmail.com`
+-⚡ Passionate about designing and implementing Reusable, Maintainable, Scalable and Well-Designed Test Automation Frameworks
+-⚡ Developing Applications/ Utilities across a variety of platforms and systems: 
+-    On-line, Real time applications, Web and Mobile user interface & Web services.
+-⚡ Fun fact: In my free time, I read about Automobiles
+-🌱 I’m currently learning RxJs and Machine Learching.
+-🥅 2020 Goals: Contribute more to Open Source projects and survive it.
+-📫 How to reach me: Say Hi! @ `mayurpatild@gmail.com`
 
 <br/
 
