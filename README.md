@@ -1,6 +1,6 @@
 ## Hey, 👋
 
-### I'm Mayur - aka [mp][website] 👋
+### I'm Mayur - aka [MP][website] 👋
 A passionate Software Engineer 🚀 Solving problems, building and testing things with code and thoughts.
 
 ##
