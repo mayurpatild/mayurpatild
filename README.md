@@ -34,7 +34,7 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/db.png"></code>
 <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/gradle.webp"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/maven.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/maven.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cucumber.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testing.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testng.jpg"></code>
