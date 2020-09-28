@@ -2,7 +2,7 @@
 
 ### I'm [Mayur][website] 
 A passionate Software Engineer 🚀 Solving problems, building and testing things with code and thoughts.
-
+ 
 ##
 I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 ##
@@ -52,7 +52,7 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 ####  Contact Me :speech_balloon:
 [![Website Badge](https://img.shields.io/badge/-mayurpatild.github.io-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](https://mayurpatild.github.io/portfolio)
 [![Linkedin Badge](https://img.shields.io/badge/-mayurpatild-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayurpatild/) 
-[![Gmail Badge](https://img.shields.io/badge/mayurpatild@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mayurpatild@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mayurpatild@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mayurpatild@gmail.com)
 <br/>
 
 <p align="center"> 
