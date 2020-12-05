@@ -10,7 +10,7 @@ I'm a FULL STACK DEVELOPER/QA WHO WANTS TO EXPLORE EVERY TECH STACK
 - ⚡ Developing and testing Applications/ Utilities across a variety of platforms and systems: 
     On-line, Real time applications, Web and Mobile user interface & Web services.
 - ⚡ Fun fact: In my free time, I read about Automobiles
-- 🌱 I’m currently learning ReactJs and Machine Learching.
+- 🌱 I’m currently learning ReactJs and Machine Learning.
 - 🥅 2020 Goals: Contribute more to Open Source projects and survive it.
 - 📫 How to reach me: Say Hi! @ `mayurpatild@gmail.com`
 
