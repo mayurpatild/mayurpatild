@@ -9,7 +9,7 @@ A passionate Software Engineer 🚀 Solving problems, building and testing thing
     On-line, Real time applications, Web and Mobile user interface & Web services.
 - ⚡ Fun fact: In my free time, I read about Automobiles
 - 🌱 I have started learning Machine Learning.
-- 🥅 2021 Goals: Learn more skills and make sigificant contribution in Quality Engineering.
+- 🥅 Current year's Goals: Learn more skills and make sigificant contribution in Quality Engineering.
 - 📫 How to reach me: Say Hi! @ `mayurpatild@gmail.com`
 
 <br/>
