@@ -14,11 +14,11 @@
 - **AI-driven development lifecycle (ADLC) for QA**: Claude Code agents, skills and MCP integrations (Jira, Confluence, GitLab) that generate test cases and runtime test data from application repos.
 - **Performance engineering**: Karate-Gatling simulations generated from Swagger specs and recorded user flows.
 
-Outcomes: regression 6 h → 45 min (85%) · 1,400-test Selenium Grid, regression 2 weeks → 3 days · report-agnostic platform onboarding new jurisdictions in days.
+Outcomes: release regression 6 h → 45 min (85%) · 100+ spec Protractor suite migrated to Playwright in 12 weeks · 1,400-test Selenium Grid, regression 2 weeks → 3 days · millions of records reconciled in minutes.
 
 ### Toolkit
 
-| | |
+| Area | Tools |
 |---|---|
 | Languages | TypeScript / JavaScript, Java, Python, C#, SQL |
 | Automation | Playwright, playwright-bdd, Cucumber, SpecFlow, Karate, Rest Assured, WebdriverIO, Selenium Grid, Appium, TestNG, JUnit, pytest |
