@@ -1,70 +1,49 @@
-## Hey, 👋
+# Mayur Patil
 
-### I'm [Mayur][website] 
-A passionate Software Engineer 🚀 Solving problems, building and testing things with code and thoughts.
- 
-##
-- ⚡ Passionate about designing and implementing Reusable, Maintainable, Scalable and Well-Designed Test Automation Frameworks
-- ⚡ Developing and testing Applications/ Utilities across a variety of platforms and systems: 
-    On-line, Real time applications, Web and Mobile user interface & Web services.
-- ⚡ Fun fact: In my free time, I read about Automobiles
-- 🌱 I have started learning Machine Learning.
-- 🥅 Current year's Goals: Learn more skills and make sigificant contribution in Quality Engineering.
-- 📫 How to reach me: Say Hi! @ `mayurpatild@gmail.com`
+**Engineer** building platforms, developer tooling and AI agents for teams that ship regulated software. 10+ years, currently AVP at Barclays.
 
-<br/>
 
-#### Languages and Tools:
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jenkins.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/ansible.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/linux.png"></code>
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/java.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/csharp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/node.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/sql.png"></code>
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/gradle.webp"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/maven.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/cucumber.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testing.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/testng.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/scraping.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/appium.jpg"></code>
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/jmeter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mayurpatild/portfolio/master/src/assets/images/UiPath.png"></code>
-<br/>
-<br/>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true" alt="mayurpatild" />
-</p>
-
-####  Contact Me :speech_balloon:
-[![Website Badge](https://img.shields.io/badge/-mayurpatild.github.io-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](https://mayurpatild.github.io/portfolio)
-[![Linkedin Badge](https://img.shields.io/badge/-mayurpatild-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayurpatild/) 
-[![Gmail Badge](https://img.shields.io/badge/-mayurpatild@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=)](mailto:mayurpatild@gmail.com)
-<br/>
- 
-<p align="center"> 
-  <strong>Visitors</strong><br/> 
-  <img src="https://profile-counter.glitch.me/mayurpatild/count.svg" />
-</p>
-   
-<p align="center">
-  <strong>Show some ❤️ by starring some of the repositories!</strong>
-</p>
+[Portfolio](https://mayurpatild.github.io) · [LinkedIn](https://www.linkedin.com/in/mayurpatild) · [Resume (PDF)](https://mayurpatild.github.io/Mayur_Patil_Resume.pdf) · mayurpatild@gmail.com
 
 ---
-⭐️ From [mayurpatild](https://github.com/mayurpatild)
 
-[website]: https://mayurpatild.github.io/portfolio/
-[linkedin]: https://www.linkedin.com/in/mayurpatild/
-[Gmail]: mayurpatild@gmail.com
+### What I work on
+
+- **Test platforms** other engineers adopt: Playwright + TypeScript BDD frameworks with page objects, data-grid helpers, environment configs, DB fixtures and CI templates. Led a 100+ spec Protractor → Playwright/ESM migration.
+- **Data validation at scale**: reusable reconciliation utilities comparing datasets across AWS Athena, Oracle and MSSQL (millions of rows in hours), independent recomputation of expected results, and verification of generated Word/PDF/Excel reports with audit-grade traceability.
+- **AI-driven development lifecycle (ADLC) for QA**: Claude Code agents, skills and MCP integrations (Jira, Confluence, GitLab) that generate test cases and runtime test data from application repos.
+- **Performance engineering**: Karate-Gatling simulations generated from Swagger specs and recorded user flows.
+
+Outcomes: regression 6 h → 45 min (85%) · 1,400-test Selenium Grid, regression 2 weeks → 3 days · report-agnostic platform onboarding new jurisdictions in days.
+
+### Toolkit
+
+| | |
+|---|---|
+| Languages | TypeScript / JavaScript, Java, Python, C#, SQL |
+| Automation | Playwright, playwright-bdd, Cucumber, SpecFlow, Karate, Rest Assured, WebdriverIO, Selenium Grid, Appium, TestNG, JUnit, pytest |
+| Performance | Gatling, Karate-Gatling, LoadRunner, JMeter |
+| AI tooling | Claude Code, GitHub Copilot, GitLab Duo, MCP servers, agent/skill design, LLM-driven test generation |
+| Platform | Spring Boot, Oracle, MSSQL, GitLab CI, Jenkins, TeamCity, Docker, OpenShift, AWS |
+
+### Selected repositories
+
+- [claude-skills](https://github.com/mayurpatild/claude-skills) — Claude Code skills for building test platforms: Playwright frameworks, OpenAPI test generation, data reconciliation, flaky-test triage, MCP server scaffolds
+- [spec-to-tests](https://github.com/mayurpatild/spec-to-tests) — OpenAPI → Playwright API tests via Claude, with a coverage matrix and a workflow that regenerates when the spec changes
+- [recon-kit](https://github.com/mayurpatild/recon-kit) — dataset reconciliation by business key with tolerance rules; 1M rows/side in ~8 s, zero dependencies
+
+- [quantum-test-framework](https://github.com/mayurpatild/quantum-test-framework) — hybrid Java framework for web, mobile, API and desktop automation
+- [bdd-protractor-ts](https://github.com/mayurpatild/bdd-protractor-ts) — UI automation with parallel execution and Docker support
+- [webdriverio-cucumber-ts](https://github.com/mayurpatild/webdriverio-cucumber-ts) — WebdriverIO + Cucumber in TypeScript
+- [mayurpatild.github.io](https://github.com/mayurpatild/mayurpatild.github.io) — this portfolio, zero-build static site
+
+### Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpatild&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages" />
+</p>
+
+Certified: ISTQB · SAFe 4 Practitioner · RPA Developer Foundation

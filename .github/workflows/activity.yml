@@ -1,0 +1,20 @@
+# Refreshes the "Recent activity" section of the profile README from real GitHub events
+# (commits, PRs, issues, releases). Commits only when the section content changed.
+name: profile activity
+on:
+  schedule: [{ cron: '20 1 * * *' }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 6
+          COMMIT_MSG: 'chore: update recent activity'
+          EMPTY_COMMIT_MSG: ''
