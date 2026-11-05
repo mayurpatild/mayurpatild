@@ -1,9 +1,10 @@
-# Refreshes the "Recent activity" section of the profile README from real GitHub events
-# (commits, PRs, issues, releases). Commits only when the section content changed.
+# Refreshes the "Recent activity" section of the profile README from public GitHub events
+# (pushes, new repos, PRs, issues, releases). Commits only when the list changed.
 name: profile activity
 on:
   schedule: [{ cron: '20 1 * * *' }]
   workflow_dispatch:
+  push: { branches: [master, main] }
 permissions:
   contents: write
 jobs:
@@ -11,10 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.3.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 6
-          COMMIT_MSG: 'chore: update recent activity'
-          EMPTY_COMMIT_MSG: ''
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node .github/scripts/activity.mjs
+        env: { GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}', GH_USER: mayurpatild, MAX_LINES: 6 }
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "mayurpatild"; git config user.email "mayurpatild@gmail.com"
+            git commit -am "chore: update recent activity" && git push
+          fi
