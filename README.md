@@ -46,9 +46,6 @@ Outcomes: release regression 6 h → 45 min (85%) · 100+ spec Protractor suite 
 - Starred [AI--smart-issue-router](https://github.com/deva-store-project/AI--smart-issue-router)
 <!--END_SECTION:activity-->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurpatild&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpatild&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages" />
-</p>
+
 
 Certified: ISTQB · SAFe 4 Practitioner · RPA Developer Foundation
