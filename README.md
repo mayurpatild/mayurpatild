@@ -44,7 +44,6 @@ Outcomes: release regression 6 h → 45 min (85%) · 100+ spec Protractor suite 
 - Pushed to [spec-to-tests](https://github.com/mayurpatild/spec-to-tests)
 - Pushed to [mayurpatild.github.io](https://github.com/mayurpatild/mayurpatild.github.io)
 - Starred [spec-to-tests](https://github.com/mayurpatild/spec-to-tests)
-- Starred [AI--smart-issue-router](https://github.com/deva-store-project/AI--smart-issue-router)
 <!--END_SECTION:activity-->
 
 
